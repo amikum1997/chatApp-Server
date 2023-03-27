@@ -1,0 +1,5 @@
+/node_modules
+# ENV
+/dist
+/tsconfig.json
+/.vscode
